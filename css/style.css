@@ -76,9 +76,6 @@ img {
     line-height: 25px;
 }
 
-#logo {
-    margin-right: 40px;
-}
 
 #nav_banner {
     padding-top: 10px;
@@ -92,6 +89,8 @@ img {
     font-size: 15px;
     line-height: 20px;
     text-align: center;
+    padding-left: 20px;
+    padding-right: 20px;
 }
 
 #nav_descr p {
