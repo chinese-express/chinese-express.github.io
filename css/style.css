@@ -79,6 +79,7 @@ img {
 #nav_banner {
     padding-top: 10px;
     padding-bottom: 10px;
+    padding-right: 10px;
     background-color: #FFEDB6;
 }
 
@@ -86,8 +87,8 @@ img {
     float: left;
     font-size: 15px;
     line-height: 20px;
+    margin-left: 30px;
     text-align: center;
-    width: 400px;
 }
 
 #nav_descr p {
@@ -95,7 +96,7 @@ img {
 }
 
 #nav-menu {
-    float:left;
+    float:right;
 }
 
 /****Heads****/
