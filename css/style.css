@@ -87,8 +87,8 @@ img {
     float: left;
     font-size: 15px;
     line-height: 20px;
-    margin-left: 30px;
     text-align: center;
+    width: 356px;
 }
 
 #nav_descr p {
