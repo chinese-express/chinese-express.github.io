@@ -95,6 +95,8 @@ img {
 
 #nav_descr p {
     margin-top: 25px;
+    font-style: 'Font Awesome';
+    font-weight: bold;
 }
 
 #nav-menu {
