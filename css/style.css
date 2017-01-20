@@ -86,18 +86,17 @@ img {
 
 #nav_descr {
     float: left;
-    font-size: 15px;
+    font-size: 20px;
     line-height: 20px;
     text-align: center;
     padding-left: 30px;
     padding-right: 30px;
     font-weight: bold;
+    font-family: 'Economica', sans-serif; 
 }
 
 #nav_descr p {
-    margin-top: 25px;
-    font-weight: bold;
-    font-family: 'Economica', sans-serif;
+    margin-top: 25px;    
 }
 
 #nav-menu {
