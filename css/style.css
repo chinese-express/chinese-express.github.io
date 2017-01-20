@@ -92,7 +92,7 @@ img {
     padding-left: 30px;
     padding-right: 30px;
     font-weight: bold;
-    font-family: 'Economica', sans-serif; 
+    /*font-family: 'Economica', sans-serif; */
 }
 
 #nav_descr p {
@@ -109,7 +109,7 @@ img {
 h1, h2, h3, h4, h5, h6 {
     font-weight: bold;
     color: #535151;
-    font-family: 'Economica', sans-serif;
+    /*font-family: 'Economica', sans-serif;*/
 }
 
 h2 {
